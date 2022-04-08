@@ -1,0 +1,73 @@
+.body{
+}
+
+.container-fluid{
+  padding: 1rem 5rem;
+}
+
+.hero-background{
+  background-color: #F0F2F5;
+  padding: 5rem 5rem;
+
+
+}
+
+.footer-container{
+  padding: 0rem 5rem;
+  background-color: #fff;
+}
+
+.icon{
+  padding: 5px 10px;
+  background-color: #fff;
+  border-radius: 0.25rem;
+  color: black;
+  font-size: 1.4rem;
+  font-weight: 800;
+  font-family: Montserrat;
+  font-style: italic;
+  line-height: normal;
+  color: #1977F2;
+}
+
+.Consulting-text{
+  margin: auto;
+  margin-left: 0.5rem;
+  font-family: Montserrat;
+  font-style: normal;
+  line-height: normal;
+}
+
+.icon-footer{
+  padding: 5px 10px;
+  background-color: #ffc107;
+  border-radius: 0.25rem;
+  color: white;
+  font-size: 1.2rem;
+  margin-right: 0.5rem;
+  font-weight: 600;
+  font-family: Montserrat;
+  font-style: italic;
+
+}
+
+.Logolink{
+  color:#1977F2;
+  text-decoration: none;
+}
+
+.Logolink:hover{
+  color:#1977F2;
+  text-decoration: none;
+}
+
+
+.button-farbe{
+  color: #fff;
+  background-color: #42b72a;
+}
+
+.button-farbe:hover{
+  color: #fff;
+  background-color: #55A523;
+}
